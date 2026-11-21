@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Japanese Bonus",
+		"specialistSlots": {"Artist": 1},
+		"uniques": [
+			"Unbuildable",
+			"Unavailable",
+			"Cannot be purchased",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Southeast Asian Bonus",
+		"uniques": [
+			"Unbuildable",
+			"Unavailable",
+			"Cannot be purchased",
+			"Will not be displayed in Civilopedia",
+			"Reveal up to [all] [{City-State} {City center}] within a [5] tile radius"
+		]
+	}
+]

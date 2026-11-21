@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Southern African Bonus",
+		"uniques": [
+			"[This Unit] gains the [Remove Southern African Bonus] status for [2] turn(s) <upon turn end> <for units without [Remove Southern African Bonus]>",
+			"[This Unit] gains [10] XP <upon turn end> <for units without [Remove Southern African Bonus]>",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Remove Southern African Bonus",
+		"uniques": [
+			"[This Unit] loses the [Southern African Bonus] promotion <upon turn end>",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Levantine Bonus",
+		"uniques": [
+			"[+1] Sight",
+			"[+1] Movement",
+			"Will not be displayed in Civilopedia"
+		]
+	}
+	{
+		"name": "Oceanic Bonus",
+		"uniques": [
+			"Comment [Enables This Unit to enter ocean tiles]",
+			"Will not be displayed in Civilopedia"
+		]
+	}
+]
