@@ -1,16 +1,184 @@
 [
-		/*
 	{
 		"name": "Starting Bonuses",
 		"civilopediaText": [
-		{
-			"header": 2,
-			"text": "Test"
-		},
-		{
-			"text": "Welcome to Cultural Starting Bonuses!\n\nIn this mod, every civ (if the mod has support for it) has a starting bonus based on their cultures!"
-		}
+			{
+				"text": "Welcome to Cultural Starting Bonuses!\n\nIn this mod, every civ (if the mod has support for it) has a starting bonus based on their cultures! And down below is what bonus each culture group gives."
+			}
+			{
+				"separator": true
+			},
+			{
+				"header": 2,
+				"text": "African Cultures:"
+			}
+			{
+				"text": "Central African:\nStarts with [Mining] already researched."
+			},
+			{
+				"text": "East African:\nFree [Stone Works] in Capital after discovering [Masonry]."
+			},
+			{
+				"text": "Khoisan:\nStarting units have [Scouting I]."
+			},
+			{
+				"text": "Nile:\nStarts with [Masonry] already researched."
+			},
+			{
+				"text": "Southern African:\nStarts with 1 [Spearman], and starting units gain +10 XP."
+			},
+			{
+				"text": "West African:\nStarts with [Bronze Working] already researched."
+			},
+			{
+				"separator": true
+			},
+			{
+				"header": 2,
+				"text": "Asian Cultures:\n"
+			},
+			{
+				"text": "Anatolian:\nMay choose 1 additional Pantheon belief after founding a Religion."
+			},
+			{
+				"text": "East Asian:\nStarts with 1 [Worker]."
+			},
+			{
+				"text": "Himalayan:\nStarts with [Shrine] in Capital."
+			},
+			{
+				"text": "Indian:\n1 free [Incense] after discovering [Calendar]."
+			},
+			{
+				"text": "Iranic:\nStarts with [The Wheel] already researched."
+			},
+			{
+				"text": "Japanese:\nStarts with 1 Artist in Capital."
+			},
+			{
+				"text": "Levantine:\nStarting units have +1 Movement and +1 Sight."
+			},
+			{
+				"text": "Mesopotamian:\nStarts with [Writing] already researched."
+			},
+			{
+				"text": "Middle Eastern:\nStarts with [Animal Husbandry] already researched."
+			},
+			{
+				"text": "Southeast Asian:\nReveals a nearby City-State upon building a [Shrine]."
+			},
+			{
+				"text": "Steppe:\n2 free [Horses] after discovering [Animal Husbandry]."
+			},
+			{
+				"separator": true
+			},
+			{
+				"header": 2,
+				"text": "European Cultures:\n"
+			},
+			{
+				"text": "Baltic:\n[Great Prophet] appears in Capital with 1 to 6 neighboring [Forest] tiles upon building a [Shrine]."
+			},
+			{
+				"text": "British:\nStarts with a sum of [Gold]."
+			},
+			{
+				"text": "Celtic:\nStarts with 1 [Warrior]."
+			},
+			{
+				"text": "French:\nStarts with a sum of [Culture]."
+			},
+			{
+				"text": "Iberian:\nFree [Swordsman] appears in Capital upom discovering [Iron Working], and starts with [Walls] in the Capital."
+			},
+			{
+				"text": "Germanic:\nStarts with [Granary] in the Capital."
+			},
+			{
+				"text": "Steppe:\n1 free [Wine] after discovering [Calendar]."
+			},
+			{
+				"text": "Nordic:\nStarting units have [Amphibious]."
+			},
+			{
+				"text": "Slavic:\nStarts with [Walls] and [Barracks] in the Capital."
+			},
+			{
+				"separator": true
+			},
+			{
+				"header": 2,
+				"text": "North & South American Cultures:\n"
+			},
+			{
+				"text": "Amazonian:\nStarts with [Pottery] already researched."
+			},
+			{
+				"text": "Andean:\n1 free [Gold Ore] after discovering [Mining]."
+			},
+			{
+				"text": "Anglo-American:\nStarts with 1 [Settler]."
+			},
+			{
+				"text": "Aridoamerican:\nReveals 5 nearby [Bonus Resources]."
+			},
+			{
+				"text": "Caribbean:\nFree [Trireme] appears in Capital if settled by [Coast]."
+			},
+			{
+				"text": "Latin American:\nStarts with 1 [Population] in Capital."
+			},
+			{
+				"text": "Pacific Northwest:\nStarts with [Sailing] already researched."
+			},
+			{
+				"text": "Mesoamerican:\nStarts with [Calendar] already researched."
+			},
+			{
+				"text": "Oasisamerican:\nFree [Aqueduct] in Capital after discovering [Engineering]."
+			},
+			{
+				"text": "Patagonian:\nStarts with 1 [Archer]."
+			},
+			{
+				"text": "Plains:\nStarts with [Trapping] already researched."
+			},
+			{
+				"text": "Polar:\nStarts with [Archery] already researched."
+			},
+			{
+				"text": "Woodlands:\nStarting units have [Woodsman]."
+			},
+			{
+				"separator": true
+			},
+			{
+				"header": 2,
+				"text": "Oceanic Cultures:\n"
+			},
+			{
+				"text": "Aboriginal:\nStarts with 1 [Scout], and reveals 1 nearby Natural Wonder."
+			},
+			{
+				"text": "Melanesian:\nStarts with [Monument] in the Capital."
+			},
+			{
+				"text": "Oceanic:\nStarting units can enter [Ocean] tiles."
+			},
+			{
+				"separator": true
+			},
+			{
+				"header": 2,
+				"text": "Other Cultures:\n"
+			},
+			{
+				"text": "Crusader:\nFree [Knight] appears in Capital upon discovering [Chivalry]."
+			},
+			{
+				"text": "Pirate:\nFree [Privateer] appears in Capital if settled by [Coast] upon discovering [Navigation]."
+			},
 		]
 	}
-		*/
 ]
