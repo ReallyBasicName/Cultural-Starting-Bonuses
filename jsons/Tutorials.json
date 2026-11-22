@@ -35,7 +35,7 @@
 			},
 			{
 				"header": 2,
-				"text": "Asian Cultures:\n"
+				"text": "Asian Cultures:"
 			},
 			{
 				"text": "Anatolian:\nMay choose 1 additional Pantheon belief after founding a Religion."
@@ -75,7 +75,7 @@
 			},
 			{
 				"header": 2,
-				"text": "European Cultures:\n"
+				"text": "European Cultures:"
 			},
 			{
 				"text": "Baltic:\n[Great Prophet] appears in Capital with 1 to 6 neighboring [Forest] tiles upon building a [Shrine]."
@@ -109,7 +109,7 @@
 			},
 			{
 				"header": 2,
-				"text": "North & South American Cultures:\n"
+				"text": "North & South American Cultures:"
 			},
 			{
 				"text": "Amazonian:\nStarts with [Pottery] already researched."
@@ -155,7 +155,7 @@
 			},
 			{
 				"header": 2,
-				"text": "Oceanic Cultures:\n"
+				"text": "Oceanic Cultures:"
 			},
 			{
 				"text": "Aboriginal:\nStarts with 1 [Scout], and reveals 1 nearby Natural Wonder."
@@ -171,7 +171,7 @@
 			},
 			{
 				"header": 2,
-				"text": "Other Cultures:\n"
+				"text": "Other Cultures:"
 			},
 			{
 				"text": "Crusader:\nFree [Knight] appears in Capital upon discovering [Chivalry]."
