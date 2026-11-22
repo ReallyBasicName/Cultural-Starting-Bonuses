@@ -2,7 +2,6 @@
     "name": "Global uniques",
     "uniques": [
 		//<for [] Civilizations> <hidden from users>
-		//
 		//<Civilopedia link [Tutorials/Starting Bonuses]>
 		//Africa:
 		"Discover [Mining] <for [Central African] Civilizations> <hidden from users>",
@@ -41,7 +40,7 @@
 		"Reveal up to [2] [{City-State} {City center}] within a [25] tile radius <upon constructing [Shrine]> <when number of [[Shrine] Buildings] is less than [2]> <for [Southeast Asian] Civilizations> <hidden from users>",
 		"Provides [2] [Horses] <after discovering [Animal Husbandry]> <for [Steppe] Civilizations> <hidden from users>",
 		//Europe:
-		"Free [Great Prophet] appears <upon constructing [Shrine]> <in [Capital] cities> with [1] to [6] neighboring [Forest] tiles> <for [Baltic] Civilizations> <hidden from users>",
+		"Free [Great Prophet] appears <upon constructing [Shrine]> <in [Capital] cities> <with [1] to [6] neighboring [Forest] tiles> <for [Baltic] Civilizations> <hidden from users>",
 		"Gain [50] [Gold] <for [British] Civilizations> <hidden from users>",
 		"Free [Warrior] appears <for [Celtic] Civilizations> <hidden from users>",
 		"Gain [10] [Culture] <for [French] Civilizations> <hidden from users>",
@@ -54,12 +53,12 @@
 		"Provides a [Barracks] in your first [1] cities for free <before turn number [10]> <for [Slavic] Civilizations> <hidden from users>",
 		//Oceania:
 		"Free [Scout] appears <for [Aboriginal] Civilizations> <hidden from users>",
-		"Reveal up to [1] [{Land} {Natural Wonder}] within a [50] tile radius <for [Aboriginal] Civilizations> <hidden from users>"
+		"Reveal up to [1] [{Land} {Natural Wonder}] within a [50] tile radius <for [Aboriginal] Civilizations> <hidden from users>",
 		"Provides a [Monument] in your first [1] cities for free <before turn number [10]> <for [Melanesian] Civilizations> <hidden from users>",
 		"[Land] units gain the [Oceanic Bonus] promotion <before turn number [1]> <for [Oceanic] Civilizations> <hidden from users>",
 		"Enables [Oceanic Bonus] units to enter ocean tiles"
 		//Other:
 		"Free [Knight] appears <in [Capital] cities>  <upon discovering [Chivalry] technology> <hidden from users>",
-		"Free [Privateer] appears <in [{Coastal} {Capital}] cities>  <upon discovering [Navigation] technology> <for [Pirate] Civilizations> <hidden from users>",
+		"Free [Privateer] appears <in [{Coastal} {Capital}] cities>  <upon discovering [Navigation] technology> <for [Pirate] Civilizations> <hidden from users>"
     ]
 }
